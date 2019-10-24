@@ -1,1 +1,2 @@
 # vitasks
+SPA

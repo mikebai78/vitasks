@@ -1,0 +1,27 @@
+.stateBtn {
+  width: 105px;
+  border-radius: 5px;
+  padding: 3px 0px;
+  text-align: center;
+  cursor: pointer;
+}
+.stateBtn:hover {
+  opacity: 0.75;
+}
+.stateBtn span {
+  color: #ffffff;
+}
+
+.planned {
+  background-color: #4fc3f7;
+}
+.inprogress {
+  background-color: #039be5;
+}
+.completed {
+  background-color: #01579b;
+}
+.text {
+  font-size: 12px;
+  color: #616161;
+}

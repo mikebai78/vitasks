@@ -1,0 +1,12 @@
+.planned {
+  font-weight: 500;
+  color: #4fc3f7;
+}
+.inprogress {
+  font-weight: 500;
+  color: #039be5;
+}
+.completed {
+  font-weight: 500;
+  color: #01579b;
+}
